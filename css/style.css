@@ -21,3 +21,14 @@ body{
 	width: 25px;
 	height: 25px;
 }
+
+.fruit{
+	background-color: red;
+	width: 25px;
+	height: 25px;
+}
+
+.gameOver{
+	text-align: center;
+	display: none;
+}
